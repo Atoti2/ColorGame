@@ -1,5 +1,5 @@
 
-# Verziókezelés
+# Verziókezelés gittel
 
 Parancssorban PAT-al:
 
@@ -20,3 +20,6 @@ Parancssorban PAT-al:
 
 - Ellenorzes:
     - **git status**
+
+- Link:
+ - [https://atoti2.github.io/ColorGame/]
