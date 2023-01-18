@@ -18,5 +18,5 @@ Parancssorban PAT-al:
 - Elmentjuk a helyi repoba(commitoljuk):
     - **git commit -m "first commit"**
 
--Ellenorzes:
+- Ellenorzes:
     - **git status**
